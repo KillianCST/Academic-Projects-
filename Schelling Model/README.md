@@ -1,0 +1,1 @@
+This is a python implementation of Schelling's segregation model
