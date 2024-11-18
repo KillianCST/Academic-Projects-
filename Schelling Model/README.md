@@ -1,4 +1,5 @@
-This is a python implementation of Schelling's segregation model
+# Schelling's Segregation Model
 
-Schelling's model of segregation is an agent-based model developed by economist Thomas Schelling. Schelling's model does not include outside factors that place pressure on agents to segregate such as Jim Crow laws in the United States, but Schelling's work does demonstrate that having people with "mild" in-group preference towards their own group could still lead to a highly segregated society via de facto segregation. (Wikipedia)
+Schelling's model of segregation is an agent-based model developed by economist Thomas Schelling. This model demonstrates that even with "mild" in-group preferences, a highly segregated society can emerge through de facto segregation. It does not account for external pressures like laws or policies (e.g., Jim Crow laws in the United States) but highlights how individual preferences can lead to significant societal patterns. [(Wikipedia)](https://en.wikipedia.org/wiki/Schelling%27s_model_of_segregation)
+
 ![Schelling's Segregation Model](Schellings.gif)
